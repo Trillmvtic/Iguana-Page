@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    }
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    margin: 0;
+}
+
+h1, h2, p{
+    color: #ffffff;
+}
+h2{
+    font-size: 2.5rem;
+}
+
+.encabezado img {
+    width: 100%;
+}
+
+.desc-section {
+    text-align: justify;
+    color: #ffffff;
+    width: 85%;
+    padding: 20px;
+}
+
+.centrado{
+    margin: 0 auto;
+    width: 75%;
+}
+
+.desc-section_texto, .iguanadiae{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.desc-section_texto{
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 14%;
+}
+
+.iguanadiae {
+    width: 35%;
+    padding-left: auto;
+}
+
+.icon-section {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 2% 0;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.centrado article {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 24px;
+    width: 33%;
+    padding-top: 5%;
+}
+.galeria{
+    padding: 80px 0;
+}
+
+.centrado_img{
+    width: 30%;
+    height: 25%;
+    display: inline-block;
+    margin: 0 10px;
+    
+
+}
+
+.centrado_img img{
+    width: 100%;
+    height: 300px;
+}
+
+.footer {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 2% 0;
+    font-size: 20px;
+    font-weight: 300;
+}
